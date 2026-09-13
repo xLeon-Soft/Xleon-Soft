@@ -35,11 +35,14 @@
 </pre>
     </td>
     <td width="35%" align="center">
-       <img width="150" alt="Avatar GIF" src="https://github.com/user-attachments/assets/cd1aebf1-8c8c-41fc-9ec0-e3f32c8b4c91" />
+       <img width="250" alt="Avatar GIF" src="https://github.com/user-attachments/assets/cd1aebf1-8c8c-41fc-9ec0-e3f32c8b4c91" />
     </td>
   </tr>
 </table>
-
+ <td width="35%" align="center">
+       <img width="498" height="261" alt="087bfb3a72c8f5af8a14c7b20352dafd" src="https://github.com/user-attachments/assets/26a1cd19-0a5e-455c-8db5-c553bdfd54eb"
+" />
+    </td>
 <p><i>Soy desarrollador de software enfocado en crear sistemas web, aplicaciones móviles, APIs y soluciones basadas en datos. Disfruto transformar problemas reales en productos funcionales, combinando interfaces claras, lógica de negocio y bases de datos bien estructuradas.</i></p>
 
 ```javascript
@@ -59,7 +62,7 @@ const playerOne = {
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🌐 SLOT_01 // FRONTEND</h3>
+      <h3>🌐 FRONTEND</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react&amp;theme=dark&amp;perline=6" alt="Frontend" />
       </a>
@@ -67,7 +70,7 @@ const playerOne = {
       <code>HTML</code> <code>CSS</code> <code>JS</code> <code>TS</code> <code>Angular</code> <code>React</code>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>⚙️ SLOT_02 // BACKEND</h3>
+      <h3>⚙️ BACKEND</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,java,kotlin,cpp,cs,dotnet,py,sql&amp;theme=dark&amp;perline=8" alt="Backend" />
       </a>
@@ -77,7 +80,7 @@ const playerOne = {
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>📱 SLOT_03 // MOBILE & CV</h3>
+      <h3>📱 MOBILE & CV</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio,react,firebase,gradle,opencv,postman&amp;theme=dark&amp;perline=6" alt="Mobile" />
       </a>
@@ -85,7 +88,7 @@ const playerOne = {
       <code>Android</code> <code>React Native</code> <code>Firebase</code> <code>OpenCV</code> <code>REST APIs</code>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🗄️ SLOT_04 // DATABASES</h3>
+      <h3>🗄️ DATABASES</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&amp;theme=dark&amp;perline=4" alt="Databases" />
       </a>
@@ -100,7 +103,7 @@ const playerOne = {
 
 <br>
 
-<h2>🕹️ QUEST_LOG // FEATURED_PROJECTS</h2>
+<h2>🕹️ FEATURED_PROJECTS</h2>
 
 <table width="100%" border="0">
   <tr>
@@ -228,8 +231,7 @@ const playerOne = {
 <p><b>>>> INSERT COIN TO COLLABORATE <<<</b></p>
   
 <a href="mailto:xleon04gd@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=D14836" alt="Email" /></a>
-<!-- Asegúrate de cambiar "tu_usuario_aqui" por tu usuario real de LinkedIn -->
-<a href="https://linkedin.com/in/tu_usuario_aqui"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=0077B5" alt="LinkedIn" /></a>
+
 <a href="https://github.com/xLeon-Soft"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=181717" alt="GitHub" /></a>
 
 <br><br>
