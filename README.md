@@ -36,7 +36,7 @@
 </pre>
     </td>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Night Coding GIF" width="220" />
+      <img width="1920" height="1080" alt="n8agw6z2smyb1" src="https://github.com/user-attachments/assets/cd1aebf1-8c8c-41fc-9ec0-e3f32c8b4c91" />
     </td>
   </tr>
 </table>
