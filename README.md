@@ -1,6 +1,7 @@
 <div align="center">
+
 <pre>
-🚀                                                                                        🖱️
+🚀                                                                               🖱️
 ██╗  ██╗ ██╗      ███████╗ ██████╗   ███╗   ██╗          ███████╗ ██████╗   ███████╗ ████████╗
 ╚██╗██╔╝ ██║      ██╔════╝ ██╔═══██╗ ████╗  ██║          ██╔════╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝
  ╚███╔╝  ██║      █████╗   ██║   ██║ ██╔██╗ ██║ ███████╗ ███████╗ ██║   ██║ █████╗      ██║   
@@ -8,18 +9,16 @@
 ██╔╝ ██╗ ███████╗ ███████╗ ╚██████╔╝ ██║ ╚████║          ███████║ ╚██████╔╝ ██║         ██║   
 ╚═╝  ╚═╝ ╚══════╝ ╚══════╝  ╚═════╝  ╚═╝  ╚═══╝          ╚══════╝  ╚═════╝  ╚═╝         ╚═╝   
 
-             GT --VERSION
+               GT --VERSION
 </pre>
-</div>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
+<br>
 
-<div align="center">
-  👾 PLAYER PROFILE
-  <br>
-<div align="center">
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+
+<br><br>
+
+<h2>👾 PLAYER PROFILE</h2>
 
 <table width="100%" border="0">
   <tr>
@@ -36,12 +35,12 @@
 </pre>
     </td>
     <td width="35%" align="center">
-       <img width="1920" height="1080" alt="n8agw6z2smyb1" src="https://github.com/user-attachments/assets/cd1aebf1-8c8c-41fc-9ec0-e3f32c8b4c91" />
+       <img width="150" alt="Avatar GIF" src="https://github.com/user-attachments/assets/cd1aebf1-8c8c-41fc-9ec0-e3f32c8b4c91" />
     </td>
   </tr>
 </table>
 
-*Soy desarrollador de software enfocado en crear sistemas web, aplicaciones móviles, APIs y soluciones basadas en datos. Disfruto transformar problemas reales en productos funcionales, combinando interfaces claras, lógica de negocio y bases de datos bien estructuradas.*
+<p><i>Soy desarrollador de software enfocado en crear sistemas web, aplicaciones móviles, APIs y soluciones basadas en datos. Disfruto transformar problemas reales en productos funcionales, combinando interfaces claras, lógica de negocio y bases de datos bien estructuradas.</i></p>
 
 ```javascript
 const playerOne = {
@@ -222,7 +221,6 @@ const playerOne = {
 <img width="100%" src="https://streak-stats.demolab.com?user=xLeon-Soft&amp;theme=radical&amp;hide_border=true&amp;locale=es" alt="Racha de contribuciones" />
 <br>
 
-
 <br><br>
 
 <h2>📡 MULTIPLAYER // CONNECT</h2>
@@ -230,6 +228,7 @@ const playerOne = {
 <p><b>>>> INSERT COIN TO COLLABORATE <<<</b></p>
   
 <a href="mailto:xleon04gd@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=D14836" alt="Email" /></a>
+<!-- Asegúrate de cambiar "tu_usuario_aqui" por tu usuario real de LinkedIn -->
 <a href="https://linkedin.com/in/tu_usuario_aqui"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=0077B5" alt="LinkedIn" /></a>
 <a href="https://github.com/xLeon-Soft"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=181717" alt="GitHub" /></a>
 
